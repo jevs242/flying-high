@@ -8,7 +8,7 @@ Open this project in Unity by navigating to the project folder after cloning or 
 
 ## Requirements
 
-- Unity Editor (Version recommended: 2021.3.13f1)
+- Unity Editor (Version recommended: 6000.0.41f1)
 
 Enjoy exploring the project!
 
