@@ -26,8 +26,9 @@ Play **Flying High** on **Itch.io**: 🔗 [Play Now](https://two42studios.itch.i
 Through this project, I:
 - Learned the end-to-end process of building a game under time constraints
 - Developed a unique visual style and theme inspired by psychedelic art
-- Strengthened my skills in **Unity**, **C# scripting**, and level design in 2d
+- Strengthened my skills in **Unity**, **C# scripting**, and **2d level design**
+- Learned how to use **post-processing effects** to enhance visual style and mood
 
-This game jam was a fun and valuable learning experience that encouraged creativity and quick decision-making, while allowing me to explore storytelling in a more humorous and imaginative way.
+This game jam was a fun and valuable learning experience that encouraged creativity and quick decision-making, while allowing me to explore storytelling in a humorous and imaginative way.
 
 Enjoy exploring the project! 🎮🌈☁️
